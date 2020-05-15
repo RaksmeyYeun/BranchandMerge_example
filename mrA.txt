@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello I'm mrA from featureA
+=======
+Hello I'm mrA from featureB
+>>>>>>> featureB
