@@ -1,3 +1,3 @@
 Hello I'm mrA from featureA
-Hello I'm mrA from featureB
+Hello I'm from featureB
 
